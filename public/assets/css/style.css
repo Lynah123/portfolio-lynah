@@ -1,0 +1,171 @@
+.navbar {
+    background-color: #1a252f !important;
+    height: 15vh;
+}
+
+.nav-link.active {
+    color: #1abc9c !important;
+    border-bottom: 2px solid #1abc9c;
+}
+
+.home {
+    background-color: #1abc9c !important;
+    height: 120vh;
+    padding-top: 220px;
+    padding-bottom: 100px !important;
+}
+
+.profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.home-title {
+    font-size: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid #fff;
+    display: inline-block;
+}
+
+.portfolio {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.portfolio-img {
+    height: 40vh;
+    border-radius: 30px 30px 0 0;
+}
+
+.portfolio-title {
+    color: #2C3E50;
+    opacity: 1;
+}
+
+.portfolio-hr {
+    width: 10%;
+    border: 2px solid #2C3E50;
+    opacity: 1;
+}
+
+.card {
+    border-radius: 30px;
+}
+
+.about {
+    background-color: #1abc9c;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.about-hr {
+    width: 10%;
+    border: 2px solid #fff;
+    opacity: 1;
+}
+
+.about-content p {
+    text-align: justify;
+    line-height: 2;
+}
+
+.btn-outline-primary {
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.btn-outline-primary:hover {
+    background-color: #2C3E50;
+    border: none;
+}
+
+.contact {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.btn-send:hover {
+    background-color: #1abc9c;
+    border: none;
+}
+
+.btn-send {
+    background-color: #2C3E50;
+    border: none;
+}
+
+.footer {
+    background-color: #2C3E50;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.list-footer {
+    list-style: none;
+}
+
+.social-link {
+    color: #fff;
+    border-radius: 100%;
+    padding: 8px 11px;
+    border: 1px solid #fff;
+    margin-right: 15px;
+}
+
+.social-link:hover {
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+
+.copyright {
+    background-color: #1a252f;
+    height: 10vh;
+}
+
+.list-footer {
+    margin-left: -30px;
+}
+
+.discord, .whatsapp {
+    cursor: pointer;
+}
+
+.adresse span {
+    margin-left: 10px;
+}
+
+.description-content {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.carousel-img {
+    max-height: 70vh;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(56%) sepia(68%) saturate(1654%) hue-rotate(123deg) brightness(93%) contrast(92%);
+}
+
+.technologie-content {
+    margin-left: 30px;
+}
+
+.resume, .description p {
+    text-align: justify;
+}
+
+.description {
+    margin-right: 30px;
+}
+
+.introduction, .title, .conclusion {
+    margin-left: 20px;
+}
+
+
+
