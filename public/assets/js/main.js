@@ -1,5 +1,5 @@
 function voirMonCV() {
-    window.location.href = "/public/assets/files/CV.pdf";
+    window.location.href = "public/assets/files/CV.pdf";
 }
 
 $(document).ready(function() {
