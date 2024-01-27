@@ -16,6 +16,7 @@ $(document).ready(function() {
     });
 });
 
+
 $(document).ready(function() {
     $(".navbar-nav a").click(function() {
         $(this).addClass("active").parent().siblings().find("a").removeClass("active");
