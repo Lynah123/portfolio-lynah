@@ -1,6 +1,7 @@
 function voirMonCV() {
-    window.location.href = "public/assets/files/CV.pdf";
+  window.open("public/assets/files/CV.pdf", "_blank");
 }
+
 
 $(document).ready(function() {
     $(".para p").hide();
